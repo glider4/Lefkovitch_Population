@@ -22,7 +22,7 @@ code was adapted based on that project.
 import numpy as np
 
 n = 150
-Y = np.zeros([3,n])  # open this matrix up after running to see actuall population numbers change
+Y = np.zeros([3,n])  # open this matrix up after running to see actual population numbers change
 lam = np.zeros([3,n])  # lambda result values
 
 # Reproduction Rates
